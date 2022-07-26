@@ -1,6 +1,6 @@
-# PROJETO PORTFÓLIO: Página clone do Whats App WEB
+# PROJETO PORTFÓLIO: Página clone da home do Instagram
 
-## Criação de uma página clone do WPP WEB.
+## Este projeto tem como objetico criar um site estático que copie o layout da home do Instagram.
 
 ### Tecnologias utilizadas:
 * HTML5
