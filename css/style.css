@@ -220,3 +220,30 @@ footer #footer_links li {
     color: #8E8E8E;
     font-weight: 400;
 }
+
+/* MOBILE */
+
+@media(max-width: 450px) {
+
+    #banner_container {
+        display: none;
+    }
+
+    #main_container,
+    #form_box {
+        margin-top: 0;
+    }
+
+    #form_container,
+    #form_box,
+    #register_container,
+    #getapp_container {
+        width: 100%;
+        border: none;
+    }
+
+    footer {
+        width: 90%;
+        text-align: center;
+    }
+} 
